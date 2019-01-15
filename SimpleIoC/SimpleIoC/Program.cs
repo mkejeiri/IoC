@@ -61,7 +61,7 @@ namespace SimpleIoC
             }
 
             //this isn't robust, we pick up the 1st ctr
-            var firstConstructor = typeToResolve.GetConstructors().FirstOrDefault();
+            var firstConstructor = resolvedType.GetConstructors().FirstOrDefault();
             var constructorParams = firstConstructor.GetParameters();
             if (constructorParams.Count() == 0)
             {
