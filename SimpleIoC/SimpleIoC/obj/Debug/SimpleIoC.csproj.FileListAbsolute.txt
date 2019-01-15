@@ -1,0 +1,7 @@
+D:\Project\IoC\SimpleIoC\SimpleIoC\bin\Debug\SimpleIoC.exe.config
+D:\Project\IoC\SimpleIoC\SimpleIoC\bin\Debug\SimpleIoC.exe
+D:\Project\IoC\SimpleIoC\SimpleIoC\bin\Debug\SimpleIoC.pdb
+D:\Project\IoC\SimpleIoC\SimpleIoC\obj\Debug\SimpleIoC.csprojAssemblyReference.cache
+D:\Project\IoC\SimpleIoC\SimpleIoC\obj\Debug\SimpleIoC.csproj.CoreCompileInputs.cache
+D:\Project\IoC\SimpleIoC\SimpleIoC\obj\Debug\SimpleIoC.exe
+D:\Project\IoC\SimpleIoC\SimpleIoC\obj\Debug\SimpleIoC.pdb
