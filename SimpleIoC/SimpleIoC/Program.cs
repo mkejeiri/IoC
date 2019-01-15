@@ -15,9 +15,9 @@ namespace SimpleIoC
             Resolver resolver = new Resolver();
             //resolver.Register<IShopper, Shopper>();
             resolver.Register<ICreditCard, MasterCard>();
-            resolver.Register<Shopper, Shopper>();
+            resolver.Register<IShopper, Shopper>();
             //var shopper = resolver.Resolve<IShopper>();
-            var shopper = resolver.Resolve<Shopper>();
+            var shopper = resolver.Resolve<IShopper>();
             shopper.Charge();
 
 
